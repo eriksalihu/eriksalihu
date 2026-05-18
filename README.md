@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=eriksalihu&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+-----
 
 ### About
 
@@ -30,9 +30,9 @@ with an eye for quality at every layer.
 - 🤝 **Open to:** Full-time roles, freelance, and interesting collaborations
 - 🌍 **Based in:** Kosovo — building for the world
 
-> *If the problem is hard enough, I'm interested.*
+> *If the problem is hard enough, I’m interested.*
 
----
+-----
 
 ### Tech Stack
 
@@ -68,39 +68,40 @@ with an eye for quality at every layer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+-----
 
 ### Featured Projects
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **HRMS** | A full-stack Human Resource Management System — employee records, leave tracking, attendance, role-based dashboards, and reporting. Built for real-world HR workflows. | `React` `Tailwind` `Node.js` `Express` `MySQL` | [Repo](https://github.com/eriksalihu/Human-Resource-Management-System-HRMS) <!-- · [Live](LIVE_URL_HERE) --> |
-| **ExploreKosova** | A full-stack platform showcasing Kosovo's travel destinations and cultural landmarks. | `Full-Stack` | [Repo](https://github.com/eriksalihu/ExploreKosova) <!-- · [Live](LIVE_URL_HERE) --> |
+|Project          |What it is                                                                                                                                                            |Stack                                         |Links                                                                                                       |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|**HRMS**         |A full-stack Human Resource Management System — employee records, leave tracking, attendance, role-based dashboards, and reporting. Built for real-world HR workflows.|`React` `Tailwind` `Node.js` `Express` `MySQL`|[Repo](https://github.com/eriksalihu/Human-Resource-Management-System-HRMS) <!-- · [Live](LIVE_URL_HERE) -->|
+|**ExploreKosova**|A full-stack platform showcasing Kosovo’s travel destinations and cultural landmarks.                                                                                 |`Full-Stack`                                  |[Repo](https://github.com/eriksalihu/ExploreKosova) <!-- · [Live](LIVE_URL_HERE) -->                        |
+
 
 > 🚧 A third project is nearing completion — details on launch. The portfolio grows as I ship.
 
----
+-----
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eriksalihu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksalihu&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eriksalihu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&icon_color=7AA2F7" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksalihu&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriksalihu&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriksalihu&hide_border=true&background=0D1117&stroke=30363D&ring=7AA2F7&fire=7AA2F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7AA2F7&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriksalihu&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriksalihu&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=C9D1D9&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eriksalihu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eriksalihu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
----
+-----
 
 ### 🐍 Contribution Snake
 
@@ -110,7 +111,7 @@ with an eye for quality at every layer.
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/eriksalihu/eriksalihu/output/github-snake.svg" />
 </picture>
 
----
+-----
 
 ### Connect With Me
 
