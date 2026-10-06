@@ -13,26 +13,24 @@
   <a href="https://eriksalihu.github.io/Erik_Salihu_CV.pdf">
     <img src="https://img.shields.io/badge/Resume-CV-1A1B27?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-Available%20now-2EA043?style=for-the-badge" alt="Available" />
-  <img src="https://komarev.com/ghpvc/?username=eriksalihu&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Available-2EA043?style=for-the-badge" alt="Available" />
 </p>
 
------
+---
 
 ### About
 
 Full-stack developer from Kosovo. I turn ideas into shipped products — clean code,
-thoughtful design, zero excuses. I build end-to-end: data modeling, APIs, and interfaces,
-with an eye for quality at every layer.
+thoughtful design, and quality at every layer.
 
-- 🛠 **Focus:** Full-stack development — from database to interface
-- 🚀 **Currently:** Building new projects and shipping continuously
-- 🤝 **Open to:** Full-time roles, freelance, and interesting collaborations
+- 🛠 **Focus:** Full-stack development
+- 🚀 **Currently:** Building and shipping new projects
+- 🤝 **Open to:** Full-time roles, freelance, and collaborations
 - 🌍 **Based in:** Kosovo — building for the world
 
 > *If the problem is hard enough, I’m interested.*
 
------
+---
 
 ### Tech Stack
 
@@ -68,40 +66,16 @@ with an eye for quality at every layer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
------
-
-### Featured Projects
-
-|Project          |What it is                                                                                                                                                            |Stack                                         |Links                                                                                                       |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|**HRMS**         |A full-stack Human Resource Management System — employee records, leave tracking, attendance, role-based dashboards, and reporting. Built for real-world HR workflows.|`React` `Tailwind` `Node.js` `Express` `MySQL`|[Repo](https://github.com/eriksalihu/Human-Resource-Management-System-HRMS) <!-- · [Live](LIVE_URL_HERE) -->|
-|**ExploreKosova**|A full-stack platform showcasing Kosovo’s travel destinations and cultural landmarks.                                                                                 |`Full-Stack`                                  |[Repo](https://github.com/eriksalihu/ExploreKosova) <!-- · [Live](LIVE_URL_HERE) -->                        |
-
-
-> 🚧 A third project is nearing completion — details on launch. The portfolio grows as I ship.
-
------
+---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eriksalihu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&icon_color=7AA2F7" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksalihu&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eriksalihu&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&icon_color=7AA2F7" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksalihu&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9" alt="Top languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eriksalihu&hide_border=true&background=0D1117&stroke=30363D&ring=7AA2F7&fire=7AA2F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=7AA2F7&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eriksalihu&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=C9D1D9&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eriksalihu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</p>
-
------
+---
 
 ### 🐍 Contribution Snake
 
@@ -111,9 +85,9 @@ with an eye for quality at every layer.
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/eriksalihu/eriksalihu/output/github-snake.svg" />
 </picture>
 
------
+---
 
-### Connect With Me
+### Connect
 
 <p align="left">
   <a href="https://eriksalihu.github.io">
@@ -130,4 +104,6 @@ with an eye for quality at every layer.
   </a>
 </p>
 
-<p align="center"><sub><code>build() → ship() → improve() → repeat()</code></sub></p>
+<p align="center">
+  <sub><code>build() → ship() → improve() → repeat()</code></sub>
+</p>
