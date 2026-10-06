@@ -89,7 +89,7 @@ thoughtful design, and quality at every layer.
 
 ### Connect
 
-<p align="center">
+<p align="left">
   <a href="https://eriksalihu.github.io">
     <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
