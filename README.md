@@ -89,12 +89,12 @@ thoughtful design, and quality at every layer.
 
 ### Connect
 
-<p align="left">
+<p align="center">
   <a href="https://eriksalihu.github.io">
     <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:eriksaalihu@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+  <a href="mailto:eriksalihuu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/eriksaalihu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
