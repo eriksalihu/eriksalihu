@@ -1,16 +1,17 @@
-## Hi there 👋
+# Erik Salihu
 
-<!--
-**eriksalihu/eriksalihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year cybersecurity student at UBT in Kosovo, focused on blue-team work: log analysis, threat detection and incident response.**
 
-Here are some ideas to get you started:
+I'm looking for a cybersecurity internship or a junior SOC analyst role. I'm available part-time now, alongside my final year, and full-time from July 2027, in Pristina (on-site or hybrid) or remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+- **Security:** SIEM and log analysis · incident response · firewalls and IDS/IPS · vulnerability assessment · OWASP Top 10 · Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux
+- **Code and systems:** Python · Bash · Linux · SQL · Git
+
+## Education
+**BSc Computer Science and Engineering, Cyber Security stream** · UBT – University for Business and Technology · 2024 to 2027 (expected)
+
+Coursework: Introduction to Information Security · Computer Networks and Communication · Operating Systems · Cryptography · Infrastructure Security and Data Protection
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/eriksaalihu/)
