@@ -9,6 +9,7 @@ I'm looking for a cybersecurity internship or a junior SOC analyst role. I'm ava
 | Project | What it does | Skills shown |
 |---|---|---|
 | [log-sentinel](https://github.com/eriksalihu/log-sentinel) | Python command-line tool that finds SSH brute force, password spraying and web attack patterns in Linux auth logs and web access logs | Log analysis, detection logic, MITRE ATT&CK mapping, Python, pytest, CI |
+| [phish-triage](https://github.com/eriksalihu/phish-triage) | Offline Python tool that scores .eml files for phishing risk, explains every point and lists defanged indicators for the ticket | Email header analysis, phishing triage, indicator extraction, Python, pytest, CI |
 
 ## Toolbox
 - **Security:** SIEM and log analysis · incident response · firewalls and IDS/IPS · vulnerability assessment · OWASP Top 10 · Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux
