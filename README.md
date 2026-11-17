@@ -23,4 +23,4 @@ I'm looking for a cybersecurity internship or a junior SOC analyst role. I'm ava
 Coursework: Introduction to Information Security · Computer Networks and Communication · Operating Systems · Cryptography · Infrastructure Security and Data Protection
 
 ## Contact
-[Portfolio](https://erik-salihu-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eriksaalihu/) · [Email](mailto:eriksalihuu@gmail.com)
+[Portfolio](https://eriksalihu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eriksaalihu/) · [Email](mailto:eriksalihuu@gmail.com)
